@@ -1,0 +1,7 @@
+pandas
+pykrx
+fastapi
+uvicorn[standard]
+streamlit
+matplotlib
+requests
